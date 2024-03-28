@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.schemebug",
+  "appName": "capacitor-ios-scheme-bug",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
