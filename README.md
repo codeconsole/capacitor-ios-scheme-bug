@@ -43,3 +43,5 @@ Results in:
         xcodebuild: error: The workspace named "App" does not contain a scheme named "SchemeBug". The "-list" option can
         be used to find the names of the schemes in the workspace.
 ```
+
+Fix `fix.sh` based on https://capacitorjs.com/docs/ios/configuration
